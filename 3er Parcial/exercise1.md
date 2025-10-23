@@ -30,6 +30,8 @@ Consultas
 ```
    #### Salida
    TODO listado de atributos y tuplas
+   <img width="1289" height="571" alt="image" src="https://github.com/user-attachments/assets/b85b2d54-c9fb-4bb5-bdf8-bf88a4f62794" />
+
    
 3. Listado de vehículos que trabajan en el Actopan, incluye los datos de placa, pasajero, modelo y anio.
    #### Solución
