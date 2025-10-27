@@ -64,7 +64,7 @@ WHERE
    
 6. Listado de vehículos que el kilometraje sea mayor a 5000 y menor a 65000, incluye los datos de modelo, anio y kilometraje.
    #### Solución
-```
+``` sql
 SELECT
   modelo,
   anio,
@@ -78,7 +78,7 @@ WHERE
 
 7. Listado de vehículos que corresponde verificación en septiembre-octubre, incluye los datos de marca, municipio y placa.
    #### Solución
-```
+``` sql
 SELECT
   marca,
   municipio,
