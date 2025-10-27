@@ -64,12 +64,28 @@ WHERE
    
 6. Listado de vehículos que el kilometraje sea mayor a 5000 y menor a 65000, incluye los datos de modelo, anio y kilometraje.
    #### Solución
-   TODO script SQL
+```
+SELECT
+  modelo,
+  anio,
+  kilometraje
+FROM Automovil
+WHERE
+  kilometraje > 5000 AND kilometraje < 65000;
+```
    #### Salida
    TODO listado de atributos y tuplas
 
 7. Listado de vehículos que corresponde verificación en septiembre-octubre, incluye los datos de marca, municipio y placa.
    #### Solución
-   TODO script SQL
+```
+SELECT
+  marca,
+  municipio,
+  placa
+FROM Automovil
+WHERE
+  placa LIKE '%9' OR placa LIKE '%0';
+```
    #### Salida
    TODO listado de atributos y tuplas
