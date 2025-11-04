@@ -30,7 +30,8 @@ Consultas
 ```
    #### Salida
    TODO listado de atributos y tuplas
-   
+   <img width="456" height="499" alt="image" src="https://github.com/user-attachments/assets/1ad98604-ae62-4332-8636-ff72a81b730c" />
+
 
    
 3. Listado de vehículos que trabajan en el Actopan, incluye los datos de placa, pasajero, modelo y anio.
@@ -47,6 +48,8 @@ WHERE
   ```
    #### Salida
    TODO listado de atributos y tuplas
+   <img width="675" height="391" alt="image" src="https://github.com/user-attachments/assets/bc53115d-afdb-414b-b4fe-b2afafa47772" />
+
    
 5. Listado de vehículos cuyo año de inicio de operación sea menor o igual a 2023, incluye los datos de marca, modelo y kilometraje.
    #### Solución
@@ -61,6 +64,8 @@ WHERE
   ```
    #### Salida
    TODO listado de atributos y tuplas
+   <img width="669" height="428" alt="image" src="https://github.com/user-attachments/assets/c35396ed-dc89-4aba-ac13-9eae31ebccee" />
+
    
 6. Listado de vehículos que el kilometraje sea mayor a 5000 y menor a 65000, incluye los datos de modelo, anio y kilometraje.
    #### Solución
@@ -75,6 +80,8 @@ WHERE
 ```
    #### Salida
    TODO listado de atributos y tuplas
+   <img width="540" height="409" alt="image" src="https://github.com/user-attachments/assets/0a4215c7-a427-4c42-aa96-c3a52556f5ea" />
+
 
 7. Listado de vehículos que corresponde verificación en septiembre-octubre, incluye los datos de marca, municipio y placa.
    #### Solución
@@ -89,3 +96,5 @@ WHERE
 ```
    #### Salida
    TODO listado de atributos y tuplas
+   <img width="481" height="332" alt="image" src="https://github.com/user-attachments/assets/46bd991e-7252-4328-b36c-11d43e2b68de" />
+
